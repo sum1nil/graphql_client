@@ -29,6 +29,10 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  # async: ^2.8.2
+  http: ^0.13.1        # Add this line,
+  oauth2: ^2.0.0       # and this line,
+  url_launcher: ^6.0.2 # and this one too.
 
 
   # The following adds the Cupertino Icons font to your application.

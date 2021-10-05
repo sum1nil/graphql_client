@@ -1,17 +1,174 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="main.dart" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lib/main.dart">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="377ef121-db00-4fd2-8373-b7f552587e19" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.flutter-plugins" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.flutter-plugins-dependencies" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Dart_SDK.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/generated_plugin_registrant.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/github_oauth_credentials.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/github_login.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/windows/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/windows/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/windows/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/windows/flutter/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/windows/flutter/CMakeFiles/3.20.3/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/windows/flutter/CMakeFiles/3.20.3/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/windows/flutter/CMakeFiles/3.20.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/windows/flutter/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/windows/flutter/CMakeFiles/CMakeError.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/windows/flutter/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/windows/flutter/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/windows/flutter/CMakeFiles/flutter_assemble.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/windows/flutter/CMakeFiles/flutter_assemble.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/windows/flutter/CMakeFiles/flutter_assemble.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/windows/flutter/CMakeFiles/flutter_assemble.dir/compiler_depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/windows/flutter/CMakeFiles/flutter_assemble.dir/compiler_depend.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/windows/flutter/CMakeFiles/flutter_assemble.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/windows/flutter/CMakeFiles/flutter_wrapper_app.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/windows/flutter/CMakeFiles/flutter_wrapper_app.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/windows/flutter/CMakeFiles/flutter_wrapper_app.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/windows/flutter/CMakeFiles/flutter_wrapper_app.dir/cmake_clean_target.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/windows/flutter/CMakeFiles/flutter_wrapper_app.dir/compiler_depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/windows/flutter/CMakeFiles/flutter_wrapper_app.dir/compiler_depend.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/windows/flutter/CMakeFiles/flutter_wrapper_app.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/windows/flutter/CMakeFiles/flutter_wrapper_app.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/windows/flutter/CMakeFiles/flutter_wrapper_app.dir/objects1.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/windows/flutter/CMakeFiles/flutter_wrapper_app.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/windows/flutter/CMakeFiles/flutter_wrapper_plugin.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/windows/flutter/CMakeFiles/flutter_wrapper_plugin.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/windows/flutter/CMakeFiles/flutter_wrapper_plugin.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/windows/flutter/CMakeFiles/flutter_wrapper_plugin.dir/cmake_clean_target.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/windows/flutter/CMakeFiles/flutter_wrapper_plugin.dir/compiler_depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/windows/flutter/CMakeFiles/flutter_wrapper_plugin.dir/compiler_depend.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/windows/flutter/CMakeFiles/flutter_wrapper_plugin.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/windows/flutter/CMakeFiles/flutter_wrapper_plugin.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/windows/flutter/CMakeFiles/flutter_wrapper_plugin.dir/objects1.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/windows/flutter/CMakeFiles/flutter_wrapper_plugin.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/windows/flutter/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/windows/flutter/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/windows/flutter/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/windows/plugins/url_launcher_windows/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/windows/plugins/url_launcher_windows/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/windows/plugins/url_launcher_windows/CMakeFiles/url_launcher_windows_plugin.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/windows/plugins/url_launcher_windows/CMakeFiles/url_launcher_windows_plugin.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/windows/plugins/url_launcher_windows/CMakeFiles/url_launcher_windows_plugin.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/windows/plugins/url_launcher_windows/CMakeFiles/url_launcher_windows_plugin.dir/compiler_depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/windows/plugins/url_launcher_windows/CMakeFiles/url_launcher_windows_plugin.dir/compiler_depend.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/windows/plugins/url_launcher_windows/CMakeFiles/url_launcher_windows_plugin.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/windows/plugins/url_launcher_windows/CMakeFiles/url_launcher_windows_plugin.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/windows/plugins/url_launcher_windows/CMakeFiles/url_launcher_windows_plugin.dir/objects1.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/windows/plugins/url_launcher_windows/CMakeFiles/url_launcher_windows_plugin.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/windows/plugins/url_launcher_windows/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/windows/plugins/url_launcher_windows/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/windows/runner/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/windows/runner/CMakeFiles/github_graphql_client.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/windows/runner/CMakeFiles/github_graphql_client.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/windows/runner/CMakeFiles/github_graphql_client.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/windows/runner/CMakeFiles/github_graphql_client.dir/compiler_depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/windows/runner/CMakeFiles/github_graphql_client.dir/compiler_depend.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/windows/runner/CMakeFiles/github_graphql_client.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/windows/runner/CMakeFiles/github_graphql_client.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/windows/runner/CMakeFiles/github_graphql_client.dir/objects1.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/windows/runner/CMakeFiles/github_graphql_client.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/windows/runner/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/windows/runner/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/windows/runner/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/github_graphql_client_android.iml" beforeDir="false" afterPath="$PROJECT_DIR$/android/github_graphql_client_android.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/github_graphql_client.iml" beforeDir="false" afterPath="$PROJECT_DIR$/github_graphql_client.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linux/flutter/generated_plugin_registrant.cc" beforeDir="false" afterPath="$PROJECT_DIR$/linux/flutter/generated_plugin_registrant.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linux/flutter/generated_plugin_registrant.h" beforeDir="false" afterPath="$PROJECT_DIR$/linux/flutter/generated_plugin_registrant.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linux/flutter/generated_plugins.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/linux/flutter/generated_plugins.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/windows/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/windows/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/windows/flutter/generated_plugin_registrant.cc" beforeDir="false" afterPath="$PROJECT_DIR$/windows/flutter/generated_plugin_registrant.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/windows/flutter/generated_plugin_registrant.h" beforeDir="false" afterPath="$PROJECT_DIR$/windows/flutter/generated_plugin_registrant.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/windows/flutter/generated_plugins.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/windows/flutter/generated_plugins.cmake" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedIndex" value="1" />
+    <option name="showToolbar" value="false" />
+    <option name="sortByName" value="true" />
+  </component>
+  <component name="ProjectId" id="1yqaiPjL5b7AJ23Aac3HcLWzWWf" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <option name="show-excluded-files" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ToolWindowProblems.ShowToolbar" value="false" />
+    <property name="com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File" value="Dart" />
+    <property name="com.intellij.openapi.externalSystem.service.settings.ExternalSystemGroupConfigurable" value="ALL" />
+    <property name="dart.analysis.tool.window.force.activate" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="flutter.preview.tool.window.visible" value="true" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../../Scoop/apps/gradle/current" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.19422573" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="project.kotlinCompiler" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\wlyou\IntelliJ_Projects\FlutterProjects\MyFlutters\graphql_client_master\graphql_client\lib" />
+      <recent name="D:\wlyou\IntelliJ_Projects\FlutterProjects\MyFlutters\graphql_client_master\graphql_client\lib\src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="377ef121-db00-4fd2-8373-b7f552587e19" name="Changes" comment="" />
+      <created>1632981706710</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1632981706710</updated>
+    </task>
+    <servers />
   </component>
   <component name="ToolWindowManager">
     <editor active="true" />
@@ -19,18 +176,23 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
     </layout>
   </component>
-  <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <option name="show-excluded-files" value="false" />
-      </pane>
-    </panes>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="dart.analysis.tool.window.force.activate" value="true" />
-    <property name="show.migrate.to.gradle.popup" value="false" />
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

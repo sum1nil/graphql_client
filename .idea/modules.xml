@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/github_graphql_client.iml" filepath="$PROJECT_DIR$/github_graphql_client.iml" />
-      <module fileurl="file://$PROJECT_DIR$/android/github_graphql_client_android.iml" filepath="$PROJECT_DIR$/android/github_graphql_client_android.iml" />
     </modules>
   </component>
 </project>
